@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **manojgowdaks07@gmail.com**
   
-- 🌎 Connect with me [0xmanu.me](https://github.com/topics/awesome-readme-template)
+- 🌎 Connect with me [0xmanu.me](0xmanu.me)
 
-- 📄 Know about my experiences [Download Cv](https://github.com/topics/awesome-readme-template)
+- 📄 Know about my experiences [Download Cv]("link)
 
 - ⚡ Fun fact **I Think i'm not Funny**
